@@ -19,13 +19,13 @@
 10. Blanc outside move en Keima
 11. Noir coupe et suit en Tobi
 
-QUESTION : Si Blanc joue Warikomi en M4 (jouer entre deux pierres), peut-il couper le Tobi Noir 11 ?
+  QUESTION : Si Blanc joue Warikomi en M4 (jouer entre deux pierres), peut-il couper le Tobi Noir 11 ?
 
-RÉPONSE : Non, a cause de la faiblesse de la pierre blanche 10.
+  RÉPONSE : Non, a cause de la faiblesse de la pierre blanche 10.
 
-***
+  ***
 
-![](img/3r-3-214.jpg)
+  ![](img/3r-3-214.jpg)
 
 12. Blanc joue Warikomi
 13. Noir atari (si Blanc ne répond pas, Noir mange et connecte en maintenant la séparation de Blanc)
@@ -36,11 +36,11 @@ RÉPONSE : Non, a cause de la faiblesse de la pierre blanche 10.
 18. Blanc sort sa pierre de coupe D
 19. Noir tue la pierre blanche en descendant jusqu'en bas si nécessaire
 
-Noir a donné une pierre au Tobi Blanc, mais a maintenu la coupe, tue le Keima blanc et prend le bord Sud. 
+  Noir a donné une pierre au Tobi Blanc, mais a maintenu la coupe, tue le Keima blanc et prend le bord Sud. 
 
-Malheureusement Noir répond de l'autre coté, et cela change tout !
+  Malheureusement Noir répond de l'autre coté, et cela change tout !
 
-![](img/3r-3-211.jpg)
+  ![](img/3r-3-211.jpg)
 
 13. Noir atari sur le Warikomi
 14. Blanc sort sa pierre 12
@@ -49,22 +49,22 @@ Malheureusement Noir répond de l'autre coté, et cela change tout !
 17. Noir connecte par le haut
 18. Blanc sort sa pierre dessus vers le Centre
 
-A Noir de jouer. Blanc B et Noir A n'ont toujours pas de base de vie !
+  A Noir de jouer. Blanc B et Noir A n'ont toujours pas de base de vie !
 
-QUESTION : Qui meurt, qui vit ?
+  QUESTION : Qui meurt, qui vit ?
 
-RÉPONSE :
-- Noir A a peu de libertés, et Blanc peut le couper a tout moment en B et tuer Noir A.
-- Blanc E a aussi peu de libertés, si Blanc coupe en B, Noir répond D.
-Noir descend en C, il aura ainsi des possibilités de tuer entièrement Blanc Sud !
-- Si Blanc E meurt, Blanc Sud F meurt car pas assez de place pour faire 2 yeux sur place. Le Sud sera à Noir, le groupe Blanc G restera flottant.
+  RÉPONSE :
+  - Noir A a peu de libertés, et Blanc peut le couper a tout moment en B et tuer Noir A.
+  - Blanc E a aussi peu de libertés, si Blanc coupe en B, Noir répond D.
+  Noir descend en C, il aura ainsi des possibilités de tuer entièrement Blanc Sud !
+  - Si Blanc E meurt, Blanc Sud F meurt car pas assez de place pour faire 2 yeux sur place. Le Sud sera à Noir, le groupe Blanc G restera flottant.
 
-***
+  ***
 
-C'est a Noir de jouer. Bien possible que Blanc E meurt avant Noir A si Noir joue maintenant C, mais il joue ailleurs,
-et ne règle aucun problème au Sud, ni pour son groupe A ni pour son groupe Sud-Ouest sans base de vie !
+  C'est a Noir de jouer. Bien possible que Blanc E meurt avant Noir A si Noir joue maintenant C, mais il joue ailleurs,
+  et ne règle aucun problème au Sud, ni pour son groupe A ni pour son groupe Sud-Ouest sans base de vie !
 
-![](img/3r-3-310.jpg)
+  ![](img/3r-3-310.jpg)
 
 19. Noir joue Keima au Nord
 20. Blanc verouille le coin en Keima
@@ -74,9 +74,9 @@ et ne règle aucun problème au Sud, ni pour son groupe A ni pour son groupe Sud
 24. Blanc pousse dans le coin et est ravi de ne pas le partager
 25. Noir s'étend en Keima (attention a l'aji d'invasion H !)
 
-A Blanc de jouer. La séquence est favorable a Blanc, et Noir reste avec un aji H.
+  A Blanc de jouer. La séquence est favorable a Blanc, et Noir reste avec un aji H.
 
-![](img/3r-3-311.jpg)
+  ![](img/3r-3-311.jpg)
 
 26. Blanc joue un Kikachi en Tsuke
 27. Noir connecte
@@ -88,9 +88,9 @@ A Blanc de jouer. La séquence est favorable a Blanc, et Noir reste avec un aji 
 33. Noir bloque
 34. Blanc cherche a sortir en Nikken-Tobi mais cela ne fonctionne pas, Noir peut couper et fermer
 
-***
+  ***
 
-![](img/3r-3-410.jpg)
+  ![](img/3r-3-410.jpg)
 
 35. Noir joue Keima vers le Centre (les problèmes restent entiers non résolus)
 36. Blanc pousse
