@@ -21,9 +21,10 @@
 
 ## Déroulement d'une partie - perfectionnement
 ### Fuseki
-- Les 3 Règles de base du Fuseki : Règle 1 La Base de Vie
-- Les 3 Règles de base du Fuseki : Règle 2 Toujours jouer au plus Gros
-- Les 3 Règles de base du Fuseki . Règle 3 Bien choisir la Ligne
+- [Les 3 Règles de base du Fuseki](/go-on/fuseki/)
+  -  Règle 1 [La Base de Vie](/go-on/fuseki/la-base-de-vie)
+  -  Règle 2 [Toujours jouer au plus Gros](/go-on/fuseki/le-plus-gros)
+  -  Règle 3 [Bien choisir la Ligne](/go-on/fuseki/le-choix-de-la-ligne)
 - Débutant 30 kyu & + : Notions de Bases Lors du Fuseki 
 
 ### Yose
