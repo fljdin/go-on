@@ -1,12 +1,14 @@
 ## GO-ON
 
 ## Règles
+
+### Bases
 - La Progression du Go La Q1 premiére étape, la Q1+Q2, deuxième étape
 - Les règles de comptage du jeu de go Différences entre règle française et règle japonaise
 - Débutant 30 kyu & + : Le rôle des pierres de bord Ceci aide pour le fuseki, et aide à comprendre votre jeu.
 - [Le Vocabulaire particulier du Go](/go-on/rules/glossary) - Les termes les plus usuels
 
-### Les Formes
+### Formes
 - Les Formes - Qu'est qu'une forme au GO ? Rappel / Introduction sur les formes.
 - Les formes Pour reconnaître les bonnes, et mauvaises formes. Une bonne forme reste une forme efficace.
 
