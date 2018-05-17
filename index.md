@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## GO-ON
 
-You can use the [editor on GitHub](https://github.com/myorama/go-on/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Règles
+- La Progression du Go La Q1 premiére étape, la Q1+Q2, deuxième étape
+- Les règles de comptage du jeu de go Différences entre règle française et règle japonaise
+- Débutant 30 kyu & + : Le rôle des pierres de bord Ceci aide pour le fuseki, et aide à comprendre votre jeu.
+- Le Vocabulaire particulier du Go Les termes les plus usuels......
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Les Formes
+- Les Formes - Qu'est qu'une forme au GO ? Rappel / Introduction sur les formes.
+- Les formes Pour reconnaître les bonnes, et mauvaises formes. Une bonne forme reste une forme efficace.
 
-### Markdown
+### Josekis
+- Les 24 josekis de base recommandés par Fan Hui
+- Qu'est-ce qu'un groupe stable au Go? Les directions. Les directions d'une groupe au Go et sa stabilité
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tsumego - Vie et Mort
+- les bases du tsumego 
 
-```markdown
-Syntax highlighted code block
+## Déroulement d'une partie - perfectionnement
+### Fuseki
+- Les 3 Règles de base du Fuseki : Règle 1 La Base de Vie
+- Les 3 Règles de base du Fuseki : Règle 2 Toujours jouer au plus Gros
+- Les 3 Règles de base du Fuseki . Règle 3 Bien choisir la Ligne
+- Débutant 30 kyu & + : Notions de Bases Lors du Fuseki 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myorama/go-on/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Yose
+- Le Yose . Débutants Les principes de base du Yose . le Gros . Le Sente . Les Urgences . Le Ko . Niveau Débutants 25-20 kyu
+- La fin de partie Les principes de base (de 30k à 5k+)
