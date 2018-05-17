@@ -10,9 +10,9 @@
 6. Blanc approche le Hoshi Sud-Est en Keima
 7. Noir double pince Blanc (pincer en L3 aurait été plus efficace sur les deux pierres blanches 4 & 6 à la fois)
 
-A Blanc de jouer. L'échange est déjà catastrophique pour Blanc. En ignorant la plus élémentaire règle il a maintenant 3 groupes faibles sans base de vie, (2, 4 et 6). Déjà Blanc a 3 problèmes à résoudre alors qu'il ne peut poser qu'une seule pierre a la fois !
+  A Blanc de jouer. L'échange est déjà catastrophique pour Blanc. En ignorant la plus élémentaire règle il a maintenant 3 groupes faibles sans base de vie, (2, 4 et 6). Déjà Blanc a 3 problèmes à résoudre alors qu'il ne peut poser qu'une seule pierre a la fois !
 
-![](img/3r-3-112.jpg)
+  ![](img/3r-3-112.jpg)
 
 8. Blanc sort en Tobi
 9. Noir stabilise haut son bord en Tobi (pour maintenir la pression sur Blanc)
